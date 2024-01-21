@@ -1,1 +1,1 @@
-Chaning the color of rectangle during mousemove#1 
+After moving the pointer, the location rectangle is relocated.
