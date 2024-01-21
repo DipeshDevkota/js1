@@ -1,1 +1,1 @@
-# jsprojectt2 this is another mini project using mainly js
+Chaning the color of rectangle during mousemove#1 
